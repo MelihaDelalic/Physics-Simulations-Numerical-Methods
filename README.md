@@ -24,7 +24,7 @@
 Every code is carefully commented and the results are visualized and documented along the way.
 In the future I hope to include more heat transfer and fluid dynamics - related projects as these are areas I am also highly interested in. I also wish to expand my knowledge of particle physics to be able to simulate particle decays and their detected trajectories.
 
-# Learning Resources 
+## Learning Resources 
 Book: An Introduction to Computational Physics by Tao Pang
 Online notes: Numerical Methods for Engineers by Jeffrey R. Chasnov
 
