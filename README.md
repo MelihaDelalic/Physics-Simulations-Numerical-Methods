@@ -1,7 +1,7 @@
 # Physics Simulations using Numerical Methods
  Welcome to my repository where I explore the fascinating world of physics using numerical methods in Julia.🌠💻
  Here I am learning to bridge the gap between the theroetical physics and its real-life applications using computational techniques.  
- I am happy to show some of my most interesting projects related to heat transfer with heat generation, particle motion Haley's Comet simulation. 💗
+ I am happy to show some of my most interesting projects related to heat transfer with heat generation, particle motion analysis, and Haley's Comet simulation. 💗
 
  ## Key Focus Areas 
  - Numerical differentiation and integration for first and higher-order differential equations.
